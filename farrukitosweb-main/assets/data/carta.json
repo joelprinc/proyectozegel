@@ -1,0 +1,553 @@
+[
+  {
+      "section": {
+          "class": "wrap section",
+          "title": "Alitas",
+          "columns": [
+              {
+                  "background": "assets/img/imagenes/orientales.jpg",
+                  "title": "Orientales",
+                  "description": "Alitas de pollo marinadas de ingredientes orientales con un toque de miel y ajonjolí tostado",
+                  "price": "s/ 27.00",
+                  "link": {
+                      "href": "",
+                      "text": "Pedir ahora"
+                  }
+              },
+              {
+                  "background": "assets/img/imagenes/alitasbbq.jpg",
+                  "title": "BBQ",
+                  "description": "Alitas fritas bañadas en nuestra salsa BBQ",
+                  "price": "s/ 28.00",
+                  "link": {
+                      "href": "",
+                      "text": "Pedir ahora"
+                  }
+              },
+              {
+                  "background": "assets/img/imagenes/brostearpicante.jpg",
+                  "title": "Infernales",
+                  "description": "Alitas de pollo broaster picantes",
+                  "price": "s/ 28.00",
+                  "link": {
+                      "href": "",
+                      "text": "Pedir ahora"
+                  }
+              },
+              {
+                  "background": "assets/img/imagenes/alitas-marinadas.jpg",
+                  "title": "A las finas hierbas",
+                  "description": "Alitas de pollo marinadas con limón, naranja y hierbas aromáticas",
+                  "price": "s/ 28.00",
+                  "link": {
+                      "href": "",
+                      "text": "Pedir ahora"
+                  }
+              }
+          ]
+      }
+  },
+  {
+      "section": {
+          "class": "wrap section",
+          "title": "Hamburguesas",
+          "columns": [
+              {
+                  "background": "assets/img/imagenes/hamburguesa-casera.jpg",
+                  "title": "Hamburguesa Casera",
+                  "description": "",
+                  "price": "s/ 20.00",
+                  "link": {
+                      "href": "",
+                      "text": "Pedir ahora"
+                  }
+              },
+              {
+                  "background": "assets/img/imagenes/Royal.jpg",
+                  "title": "Hamburguesa Royal",
+                  "description": "Hamburguesa + queso cheddar + huevo",
+                  "price": "s/ 24.00",
+                  "link": {
+                      "href": "",
+                      "text": "Pedir ahora"
+                  }
+              },
+              {
+                  "background": "assets/img/imagenes/eldiablo.jpg",
+                  "title": "Hamburguesa del Diablo",
+                  "description": "Hamburguesa + queso cheddar + huevo + verduras asadas + salsa Infernal",
+                  "price": "s/ 27.00",
+                  "link": {
+                      "href": "",
+                      "text": "Pedir ahora"
+                  }
+              },
+              {
+                  "background": "assets/img/carta/toxica.jpg",
+                  "title": "La Tóxica",
+                  "description": "Hamburguesa + queso cheddar + tocino + rodajas de piña caramelizada",
+                  "price": "s/ 28.00",
+                  "link": {
+                      "href": "",
+                      "text": "Pedir ahora"
+                  }
+              },
+              {
+                  "background": "assets/img/imagenes/gaucha.jpg",
+                  "title": "La Gaucha",
+                  "description": "Hamburguesa + chorizo a las finas hierbas + salsa chimichurri",
+                  "price": "s/ 29.00",
+                  "link": {
+                      "href": "",
+                      "text": "Pedir ahora"
+                  }
+              },
+              {
+                  "background": "assets/img/imagenes/lagringa.jpg",
+                  "title": "La Gringa",
+                  "description": "Pan en mantequilla de ajo + hamburguesa + queso cheddar + tocino + onion rings",
+                  "price": "s/ 30.00",
+                  "link": {
+                      "href": "",
+                      "text": "Pedir ahora"
+                  }
+              },
+              {
+                  "background": "assets/img/carta/infartito.jpg",
+                  "title": "El Infartito",
+                  "description": "Doble hamburguesas + doble queso cheddar + huevo + tocino + pickles",
+                  "price": "s/ 33.00",
+                  "link": {
+                      "href": "",
+                      "text": "Pedir ahora"
+                  }
+              },
+              {
+                  "background": "assets/img/imagenes/Explosiva.jpg",
+                  "title": "La Explosiva",
+                  "description": "200 gr de hamburguesa rellena de queso mantecoso + tocino + mermelada de sauco + pickles",
+                  "price": "s/ 33.00",
+                  "link": {
+                      "href": "",
+                      "text": "Pedir ahora"
+                  }
+              }
+          ]
+      }
+  },
+  {
+      "section": {
+          "title": "Platos c/papas nativas",
+          "dishes": [
+              {
+                  "name": "Salchipapa de toda la vida",
+                  "description": null,
+                  "price": "s/ 20.00",
+                  "image": "assets/img/imagenes/emplatado-final-de-las-salchipapas.jpg",
+                  "cta": "Pedir ahora"
+              },
+              {
+                  "name": "Salchipapa Royal",
+                  "description": "Hot dog ahumado + queso + huevo",
+                  "price": "s/ 25.00",
+                  "image": "assets/img/imagenes/salchipaparoyal.jpg",
+                  "cta": "Pedir ahora"
+              },
+              {
+                  "name": "Pollipapas",
+                  "description": "Tiras de pollo marinado + papas nativas",
+                  "price": "s/ 25.00",
+                  "image": "assets/img/imagenes/pollipapas.jpg",
+                  "cta": "Pedir ahora"
+              },
+              {
+                  "name": "antistress",
+                  "description": "Chorizo parrillero + hot dog ahumado + papas nativas",
+                  "price": "s/ 25.00",
+                  "image": "assets/img/imagenes/antiestress.jpg",
+                  "cta": "Pedir ahora"
+              },
+              {
+                  "name": "La viciosilla",
+                  "description": "Tiras de pollo marinado + hot dog ahumado + papas nativas",
+                  "price": "s/ 25.00",
+                  "image": "assets/img/imagenes/visco.jpg",
+                  "cta": "Pedir ahora"
+              },
+              {
+                  "name": "Champipapas",
+                  "description": "champiñones salteados en mantequilla de ajo + queso + papas nativas",
+                  "price": "s/ 26.00",
+                  "image": "assets/img/imagenes/champipapas.jpg",
+                  "cta": "Pedir ahora"
+              },
+              {
+                  "name": "Papas bravazas",
+                  "description": "Tocino + queso rallado + papas nativas",
+                  "price": "s/ 27.00",
+                  "image": "assets/img/imagenes/papasbravas.jpg",
+                  "cta": "Pedir ahora"
+              },
+              {
+                  "name": "La chibolita",
+                  "description": "tocino + queso rallado + papas nativas",
+                  "price": "s/ 28.00",
+                  "image": "assets/img/imagenes/chibolita.jpg",
+                  "cta": "Pedir ahora"
+              },
+              {
+                  "name": "La malcriada",
+                  "description": "Lomo de carne en tiras + hot dog ahumado + papas nativas",
+                  "price": "s/ 28.00",
+                  "image": "assets/img/imagenes/malcriada.jpg",
+                  "cta": "Pedir ahora"
+              },
+              {
+                  "name": "La antiresaca",
+                  "description": "Hot dog ahumado + chorizo parrillero + polo marinado + papas nativas",
+                  "price": "s/ 29.00",
+                  "image": "assets/img/imagenes/antirasaca.jpg",
+                  "cta": "Pedir ahora"
+              },
+              {
+                  "name": "La sinverguenza",
+                  "description": "Hot dog ahumado + tocino + champiñones + papas nativas",
+                  "price": "s/ 30.00",
+                  "image": "assets/img/imagenes/lasinverguenza.jpg",
+                  "cta": "Pedir ahora"
+              },
+              {
+                  "name": "salchicharapa",
+                  "description": "Hot dog ahumado + cecina ahumada + chorizo selvatico + papas nativas",
+                  "price": "s/ 30.00",
+                  "image": "assets/img/imagenes/salchicharapa.jpg",
+                  "cta": "Pedir ahora"
+              },
+              {
+                  "name": "Mañana empiezo la dieta",
+                  "description": "Tiras de pollo marinado + tocino + champiñones + papas nativas",
+                  "price": "s/ 33.00",
+                  "image": "assets/img/imagenes/mañanadieta.jpg",
+                  "cta": "Pedir ahora"
+              },
+              {
+                  "name": "Chanchichola",
+                  "description": "Costillas de cerdo cocidas en reduccion de coca cola, miel y hierbas aromaticas",
+                  "price": "s/ 36.00",
+                  "image": "assets/img/imagenes/chanchichola.jpg",
+                  "cta": "Pedir ahora"
+              },
+              {
+                  "name": "ChanchiBBQ",
+                  "description": "Costilla de cerdo cocidas a baja temperatura determinadas al horno con salsa bbq",
+                  "price": "s/ 30.00",
+                  "image": "assets/img/imagenes/chanchibbq.jpg",
+                  "cta": "Pedir ahora"
+              }
+          ]
+      }
+  },
+  {
+      "section": {
+          "class": "wrap section",
+          "title": "Piqueos",
+          "columns": [
+              {
+                  "background": "assets/img/imagenes/Papas-Nativas.jpg",
+                  "title": "Porcion de Papas Nativas",
+                  "price": "s/ 15.00",
+                  "button": {
+                      "type": "button",
+                      "class": "btn-warning",
+                      "text": "Pedir ahora"
+                  }
+              },
+              {
+                  "background": "assets/img/imagenes/aros-de-cebolla.jpg",
+                  "title": "Aros de cebolla",
+                  "price": "s/ 17.00",
+                  "link": {
+                      "href": "",
+                      "text": "Pedir ahora"
+                  }
+              },
+              {
+                  "background": "assets/img/imagenes/pan-de-ajo.jpg",
+                  "title": "Pan de ajo",
+                  "price": "s/ 20.00",
+                  "link": {
+                      "href": "",
+                      "text": "Pedir ahora"
+                  }
+              },
+              {
+                  "background": "assets/img/imagenes/pan-de-ajo+queso.jpg",
+                  "title": "Pan al ajo + queso",
+                  "price": "s/ 25.00",
+                  "link": {
+                      "href": "",
+                      "text": "Pedir ahora"
+                  }
+              },
+              {
+                  "background": "assets/img/imagenes/nachoslibres.jpg",
+                  "title": "Nachos libres",
+                  "description": "Tortilla de trigo fritas con queso rallado, guacamole, pico de gallo y jalapeños",
+                  "price": "s/ 26.00",
+                  "link": {
+                      "href": "",
+                      "text": "Pedir ahora"
+                  }
+              },
+              {
+                  "background": "assets/img/imagenes/NachosChingonesxd.jpg",
+                  "title": "Nachos chingones",
+                  "description": "De carne, pollo y en salsa BBQ con queso rallado, guacamole, pico de gallo y jalapeños",
+                  "price": "s/ 30.00",
+                  "link": {
+                      "href": "",
+                      "text": "Pedir ahora"
+                  }
+              },
+              {
+                  "background": "assets/img/imagenes/NachosChingonesxd2.jpg",
+                  "title": "Nacho super chingones",
+                  "description": "De carne, pollo y chorizo en salsa BBQ con queso rallado, guacamole, pico de gallo y jalapeños",
+                  "price": "s/ 33.00",
+                  "link": {
+                      "href": "",
+                      "text": "Pedir ahora"
+                  }
+              }
+          ]
+      }
+  },
+  {
+      "section": {
+          "class": "wrap section",
+          "title": "Pizzas",
+          "items": [
+              {
+                  "background": "assets/img/imagenes/pepperoni-pizza-abob-m.jpg",
+                  "title": "Peperoni",
+                  "price": "s/ 30.00",
+                  "cta": "Pedir ahora"
+              },
+              {
+                  "background": "assets/img/imagenes/americana.jpg",
+                  "title": "Americana",
+                  "price": "s/ 30.00",
+                  "cta": "Pedir ahora"
+              },
+              {
+                  "background": "assets/img/imagenes/capresse.jpg",
+                  "title": "Capresse",
+                  "description": "Tomate + queso edam + albahaca + aceite de oliva",
+                  "price": "s/ 30.00",
+                  "cta": "Pedir ahora"
+              },
+              {
+                  "background": "assets/img/imagenes/hawaiana.jpg",
+                  "title": "Hawaiana",
+                  "description": "Jamón + piña",
+                  "price": "s/ 33.00",
+                  "cta": "Pedir ahora"
+              },
+              {
+                  "background": "assets/img/imagenes/4quesos.jpg",
+                  "title": "4 quesos",
+                  "description": "Edam + dambo + mantecoso + parmesano",
+                  "price": "s/ 36.00",
+                  "cta": "Pedir ahora"
+              },
+              {
+                  "background": "assets/img/imagenes/fhawaii.jpg",
+                  "title": "Farrukitos en Hawai",
+                  "description": "Tocino + piña + jalapeños + cebolla blanca",
+                  "price": "s/ 38.00",
+                  "cta": "Pedir ahora"
+              },
+              {
+                  "background": "assets/img/imagenes/sweet.jpg",
+                  "title": "Sweet Chicken Pizza",
+                  "description": "Pollo marinado + salsa bbq + tocino + maiz dulce + cebolla blanca",
+                  "price": "s/ 40.00",
+                  "cta": "Pedir ahora"
+              },
+              {
+                  "background": "assets/img/imagenes/spicy.jpg",
+                  "title": "Spicy pizza",
+                  "description": "Lomo de carne + champiñones + cebolla blanca + jalapeños",
+                  "price": "s/ 40.00",
+                  "cta": "Pedir ahora"
+              },
+              {
+                  "background": "assets/img/imagenes/pura carne.jpg",
+                  "title": "Pura carne",
+                  "description": "Lomo de carne + Peperoni + Jamón + salsa chimichurri",
+                  "price": "s/ 40.00",
+                  "cta": "Pedir ahora"
+              },
+              {
+                  "background": "assets/img/imagenes/de lujo.jpg",
+                  "title": "De lujo",
+                  "description": "Lomo de carne + tocino + champiñones + cebolla",
+                  "price": "s/ 40.00",
+                  "cta": "Pedir ahora"
+              }
+          ]
+      }
+  },
+  {
+      "section": {
+          "class": "wrap section",
+          "title": "Quesadillas",
+          "items": [
+              {
+                  "background": "assets/img/imagenes/carnivora.jpg",
+                  "title": "Carnivora",
+                  "description": "De carne molida + queso rallado + pico de gallo, acompañado de guacamole",
+                  "price": "s/ 24.00",
+                  "cta": "Pedir ahora"
+              },
+              {
+                  "background": "assets/img/imagenes/no pia mas.jpg",
+                  "title": "No pia Más",
+                  "description": "De pollo marinado + queso rallado + pico de gallo, acompañado de guacamole",
+                  "price": "s/ 24.00",
+                  "cta": "Pedir ahora"
+              },
+              {
+                  "background": "assets/img/imagenes/lacarnalita.jpg",
+                  "title": "La carnalita",
+                  "description": "De carne y pollo + queso rallado + pico de gallo, acompañado de guacamole",
+                  "price": "s/ 26.00",
+                  "cta": "Pedir ahora"
+              },
+              {
+                  "background": "assets/img/imagenes/Quetalomazo.jpg",
+                  "title": "Que tal lomazo",
+                  "description": "Enrollado de lomo de carne + queso rallado + verduras asadas",
+                  "price": "s/ 28.00",
+                  "cta": "Pedir ahora"
+              },
+              {
+                  "background": "assets/img/imagenes/lafina.jpg",
+                  "title": "La fina",
+                  "description": "De pollo marinado + champiñones + queso rallado + jalapeños",
+                  "price": "s/ 28.00",
+                  "cta": "Pedir ahora"
+              },
+              {
+                  "background": "assets/img/imagenes/peruvina.jpg",
+                  "title": "La peruviana",
+                  "description": "De pollo marinado + champiñones + queso rallado + tomate caramelizado y albahaca",
+                  "price": "s/ 28.00",
+                  "cta": "Pedir ahora"
+              },
+              {
+                  "background": "assets/img/imagenes/Quetalomazo.jpg",
+                  "title": "Que tal lomazo",
+                  "description": "Enrollado de lomo de carne + queso rallado + verduras asadas",
+                  "price": "s/ 28.00",
+                  "cta": "Pedir ahora"
+              },
+              {
+                  "background": "assets/img/imagenes/twerkling.jpg",
+                  "title": "twerking chicken roll",
+                  "description": "Enrollado de pollo crocante + tocino + dambo + cheddar + salsa golf picante",
+                  "price": "s/ 31.00",
+                  "cta": "Pedir ahora"
+              }
+          ]
+      }
+  },
+  {
+      "section": {
+          "class": "wrap section",
+          "title": "Sandwiches",
+          "columns": [
+              {
+                  "background": "assets/img/imagenes/chorizo.jpg",
+                  "title": "Chorizo Parrillero",
+                  "description": "",
+                  "price": "s/ 20.00",
+                  "link": {
+                      "href": "",
+                      "text": "Pedir ahora"
+                  }
+              },
+              {
+                  "background": "assets/img/imagenes/chorizohierbas.jpg",
+                  "title": "Chorizo a las finas hierbas",
+                  "description": "",
+                  "price": "s/ 20.00",
+                  "link": {
+                      "href": "",
+                      "text": "Pedir ahora"
+                  }
+              },
+              {
+                  "background": "assets/img/imagenes/pechuga_de_pollo_marinada.jpg",
+                  "title": "Filete de pollo marinado",
+                  "description": "",
+                  "price": "s/ 20.00",
+                  "link": {
+                      "href": "",
+                      "text": "Pedir ahora"
+                  }
+              },
+              {
+                  "background": "assets/img/imagenes/chorizohierbas.jpg",
+                  "title": "Chorizo Parrillero Royal",
+                  "description": "Chorizo + queso + huevo",
+                  "price": "s/ 24.00",
+                  "link": {
+                      "href": "",
+                      "text": "Pedir ahora"
+                  }
+              },
+              {
+                  "background": "assets/img/imagenes/pechuga_de_pollo_marinada.jpg",
+                  "title": "Filete de pollo marinado Royal",
+                  "description": "Pollo + queso + huevo",
+                  "price": "s/ 24.00",
+                  "link": {
+                      "href": "",
+                      "text": "Pedir ahora"
+                  }
+              },
+              {
+                  "background": "assets/img/imagenes/mamachis.jpg",
+                  "title": "La favorita de mamachis",
+                  "description": "Filete de pollo marinado + cebolla caramelizada + queso + champiñones",
+                  "price": "s/ 26.00",
+                  "link": {
+                      "href": "",
+                      "text": "Pedir ahora"
+                    }
+                },
+                {
+                    "background": "assets/img/imagenes/gym.jpg",
+                    "title": "Pa despues del gym",
+                    "description": "Pollo crocante + ensalada de col estilo KFC",
+                    "price": "s/ 27.00",
+                    "link": {
+                        "href": "",
+                        "text": "Pedir ahora"
+                    }
+                },
+                {
+                    "background": "assets/img/imagenes/palta.jpg",
+                    "title": "No te hagas paltas",
+                    "description": "Pollo crocante + salsa BBQ + deliciosa palta fresca",
+                    "price": "s/ 27.00",
+                    "link": {
+                        "href": "",
+                        "text": "Pedir ahora"
+                    }
+                }
+            ]
+        }
+    }
+]
